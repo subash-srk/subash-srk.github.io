@@ -66,10 +66,32 @@ h2{
 /* PROJECTS */
 .btn-group button{
   font-size: large;
-  height: 50px;
-  width: 90px;
   color: white;
 }
+.skill-icon{
+  padding: 10px 4px;
+  width: 50px;
+}
+.p-title{
+  font-size: 20px;
+}
+
+/* POPUPS */
+.popup-box{
+  display: block;
+  position: fixed;
+  align-content: center;
+  padding: 5px;
+}
+.popup-content{
+  display: flex;
+  justify-content: space-between;
+  margin: 5px;
+}
+.popup-content img{
+}
+
+
 
 /* SKILLS */
 .experience-details-container {
