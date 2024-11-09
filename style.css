@@ -87,9 +87,10 @@ h2{
   display: flex;
   justify-content: space-between;
   margin: 5px;
+  padding: 10px;
 }
-.popup-content img{
-}
+/* .popup-content img{
+} */
 
 
 
